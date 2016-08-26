@@ -4,5 +4,5 @@ This are the souces from the book "Effective Java Second Edition", written by Jo
 
 They are unmodifed, except the package names.
 
-The original source are downloaded from http://java.sun.com/docs/books/effective/index.html, but are no longer provided.
+The original source can be downloaded from http://java.sun.com/docs/books/effective/index.html, but are no longer provided.
 

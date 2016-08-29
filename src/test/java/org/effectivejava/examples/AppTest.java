@@ -31,8 +31,7 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
-    {
+    public void testApp() {   //from experimental Branch
         assertTrue( true );
     }
 }

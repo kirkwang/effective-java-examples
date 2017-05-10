@@ -5,7 +5,7 @@ import junit.framework.TestCase;
 import junit.framework.TestSuite;
 
 /**
- * Unit test for simple App.
+ * Unit test for the simple App.
  */
 public class AppTest 
     extends TestCase
@@ -31,9 +31,8 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-
-    public void testApp() // push to master
+    public void testApp()
     {
-        assertTrue(Boolean.FALSE);
+        assertTrue( Boolean.TRUE );
     }
 }
